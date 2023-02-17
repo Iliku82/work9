@@ -1,0 +1,15 @@
+C:\Users\Петр\Desktop\Work9\bin\Debug\net7.0\Work9.exe
+C:\Users\Петр\Desktop\Work9\bin\Debug\net7.0\Work9.deps.json
+C:\Users\Петр\Desktop\Work9\bin\Debug\net7.0\Work9.runtimeconfig.json
+C:\Users\Петр\Desktop\Work9\bin\Debug\net7.0\Work9.dll
+C:\Users\Петр\Desktop\Work9\bin\Debug\net7.0\Work9.pdb
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\Work9.csproj.AssemblyReference.cache
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\Work9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\Work9.AssemblyInfoInputs.cache
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\Work9.AssemblyInfo.cs
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\Work9.csproj.CoreCompileInputs.cache
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\Work9.dll
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\refint\Work9.dll
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\Work9.pdb
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\Work9.genruntimeconfig.cache
+C:\Users\Петр\Desktop\Work9\obj\Debug\net7.0\ref\Work9.dll
